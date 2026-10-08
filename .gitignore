@@ -1,0 +1,10 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+certificates.db
+generated/*.pdf
+generated/*.zip
+.vscode/
